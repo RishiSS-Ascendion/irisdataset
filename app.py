@@ -24,7 +24,7 @@ st.title("🌸 Iris Flower Classifier")
 st.markdown(
     """
     This demo predicts the **species of Iris flower** based on four features:
-    - Sepal Length  
+    - Sepal Lengt
     - Sepal Width  
     - Petal Length  
     - Petal Width  
